@@ -1,18 +1,3 @@
-YES! **This is exactly what should go in your README.**
-
-However, the text you pasted above is missing the **Markdown code for the images**. If you paste that exactly as is, the images won't show up.
-
-Below is the **final, properly formatted version**. I have inserted the correct image links (`![Alt Text](./images/filename.png)`) so they will render perfectly on GitHub.
-
-### ✅ Instructions:
-1.  Create a file named **`README.md`** in your repository.
-2.  **Copy the code block below** and paste it into that file.
-3.  Make sure you have uploaded your images to an **`images`** folder with the **exact names** listed in the code (e.g., `01_pipeline_graph.png`).
-4.  **Commit** the changes.
-
----
-
-```markdown
 # 🚀 Production-Grade CI/CD Pipeline with Jenkins on AWS
 
 This repository documents the architecture and implementation of an end-to-end automated CI/CD pipeline using **Jenkins on AWS**. The project implements industry-standard DevOps practices, moving from code commit to production deployment with a focus on security, scalability, and separation of concerns.
